@@ -25,7 +25,7 @@ I am Sakshi Pingale . 2nd year Computer science student .
 - 🌱 I’m currently learning Git and GitHub  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: Always Eager to learn new things 
 
 
 </td><td valign="top" width="50%">
